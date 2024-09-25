@@ -1,7 +1,7 @@
 # Ex.No:04   FIT ARMA MODEL FOR TIME SERIES
 ### Date:
 ### AIM:
-To implement ARMA model in python.
+To fit ARMA models to time series data from an astrobiological dataset and simulate corresponding ARMA processes for analysis and visualization..
 ### ALGORITHM:
 1. Import necessary libraries.
 2. Define an ARMA(1,1) process with coefficients ar1 and ma1, and generate a sample of 1000
