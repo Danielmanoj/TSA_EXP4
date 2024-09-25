@@ -1,6 +1,6 @@
 # Ex.No:04   FIT ARMA MODEL FOR TIME SERIES
-# Date:
-# AIM:
+### Date:
+### AIM:
 To implement ARMA model in python.
 ### ALGORITHM:
 1. Import necessary libraries.
@@ -15,7 +15,7 @@ axis limits.
 5. Display the autocorrelation and partial autocorrelation plots for the ARMA(2,2) process using
 plot_acf and plot_pacf.
 
-# PROGRAM:
+### PROGRAM:
 ```
 DEVELOPED BY: MANOJ G
 REGISTER NO: 212222240060
